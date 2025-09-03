@@ -1,4 +1,4 @@
-module vitess-test
+module github.com/alhss/dependabot-go-proxy-test
 
 go 1.23.3
 
