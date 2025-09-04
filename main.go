@@ -2,7 +2,7 @@ package main
 
 import (
     "k8s.io/client-go/kubernetes"
-    "github.com/alhss/dependabot-go-proxy-test"
+    "github.com/alhss/private-go-utils"
 )
 
 func main() {
